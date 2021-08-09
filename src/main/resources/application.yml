@@ -19,7 +19,7 @@ spring:
 #        git:
 #          uri: https://github.com/dev-gyus/spring-cloud-config.git
 #          username: cjsworbehd13@gmail.com
-#          password: vmffkdfpal495!
+##          password: vmffkdfpal495!
 
 management:
   endpoints:
