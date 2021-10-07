@@ -18,7 +18,7 @@ spring:
           search-locations: file://${user.home}/Desktop/native-file-repo
         git:
           uri: https://github.com/dev-gyus/spring-cloud-config.git
-
+#
 management:
   endpoints:
     web:
